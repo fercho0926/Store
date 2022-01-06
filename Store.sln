@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store", "Store\Store.csproj", "{11E28CE9-6844-45DF-8D90-2E4B17688C24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Store", "Store\Store.csproj", "{11E28CE9-6844-45DF-8D90-2E4B17688C24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store.Core", "Store.Core\Store.Core.csproj", "{930E85BD-15E0-4C69-9D8B-AC4215561D17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Store.Core", "Store.Core\Store.Core.csproj", "{930E85BD-15E0-4C69-9D8B-AC4215561D17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store.Data", "Store.Data\Store.Data.csproj", "{53F05AD6-66F9-4307-958C-8716D748D42B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Store.Data", "Store.Data\Store.Data.csproj", "{53F05AD6-66F9-4307-958C-8716D748D42B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

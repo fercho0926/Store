@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WorkSpaces\\capas\\Store\\Store.Data\\Store.Data.csproj": {}
+    "C:\\WorkSpaces\\git\\Store\\Store.Data\\Store.Data.csproj": {}
   },
   "projects": {
-    "C:\\WorkSpaces\\capas\\Store\\Store.Data\\Store.Data.csproj": {
+    "C:\\WorkSpaces\\git\\Store\\Store.Data\\Store.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WorkSpaces\\capas\\Store\\Store.Data\\Store.Data.csproj",
+        "projectUniqueName": "C:\\WorkSpaces\\git\\Store\\Store.Data\\Store.Data.csproj",
         "projectName": "Store.Data",
-        "projectPath": "C:\\WorkSpaces\\capas\\Store\\Store.Data\\Store.Data.csproj",
+        "projectPath": "C:\\WorkSpaces\\git\\Store\\Store.Data\\Store.Data.csproj",
         "packagesPath": "C:\\Users\\mvasquez\\.nuget\\packages\\",
-        "outputPath": "C:\\WorkSpaces\\capas\\Store\\Store.Data\\obj\\",
+        "outputPath": "C:\\WorkSpaces\\git\\Store\\Store.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
